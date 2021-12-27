@@ -1,0 +1,26 @@
+.header {
+  text-align: center;
+  background-color: aqua;
+  font-size: large;
+
+}
+.Component {
+  padding: 10px;
+  font-size: 20px;
+  padding-left: 0% ;
+  background-color: blueviolet;
+  width: 50%;
+  float: left;
+}
+.Component2 {
+  padding: 10px;
+  font-size: 20px;
+  padding-left: 50% ;
+  background-color:yellowgreen;
+  width: 50%;
+}
+.Component3 {
+  background-color: brown;
+  margin-top: 5%;
+  text-align: center;
+}
